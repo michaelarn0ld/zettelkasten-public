@@ -1,0 +1,4 @@
+# FooBar
+
+## Tags
+#math #physics
