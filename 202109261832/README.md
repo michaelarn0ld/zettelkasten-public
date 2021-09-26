@@ -1,4 +1,4 @@
-# Controlling Cooling and RGB Settings w/ OpenRGB nad LiquidCTL
+# Controlling Cooling and RGB Settings w/ OpenRGB and LiquidCTL
 
 **There are two ways which I am controlling the RGB settings on my machine.**
 
