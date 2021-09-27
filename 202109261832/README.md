@@ -1,10 +1,10 @@
 # Controlling Cooling and RGB Settings w/ OpenRGB and LiquidCTL
 
-** RGB is controlled by OpenRGB **
+**RGB is controlled by OpenRGB**
 Open RGB is supporting the RGB control of all 6 fans on my machine via the
 Corsair lighting node. It is also handling the RGB of my RAM.
 
-** Cooling is controlled by LiquidCTL **
+**Cooling is controlled by LiquidCTL**
 The pump cooler and speed of all fans in the case is being controlled by
 LiquidCTL. In order to use this software, the python environment where it exists
 must first be activated.
