@@ -23,6 +23,6 @@ Simply, just rename the file. Restoring to its original brings back the bug.
 Apparently, the current firmare is not compatible with this PNVM. Removing the 
 file was also an option; however, I kept it in case a future solution demands that
 I have the file.
-#### TEST
+
 ## Tags
 #linux #firmware
