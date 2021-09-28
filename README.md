@@ -63,7 +63,7 @@ system that works best for you! Check out the references for more.
 
 
 ## Contributors
-@author: Michael Arnold /
+@author: Michael Arnold \
 @contact: me@michaelarnold.io
 
 ## License
