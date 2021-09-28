@@ -43,7 +43,7 @@ options v4l2loopback exclusive_caps=1 max_buffers=2
 
 Awesome! Now the module will always be loaded when you reboot your system.
 We can start using the actual software now. For convenience, there is a bash
-script in ```bash ~/scripts/webcam```. If you are interested in the underlying
+script in ```~/scripts/webcam```. If you are interested in the underlying
 usage of the script be sure to check that out. Otherwise, just know that to
 start the webcam:
 ```bash
@@ -53,8 +53,8 @@ Which is an alias for:
 ```bash
 gphoto2 --stdout --capture-movie | ffmpeg -i - -vcodec rawvideo -pix_fmt yuv420p -threads 0 -f v4l2 /dev/video0
 ```
-Be sure to replace ```bash /dev/video0``` with whatever the device is output
-from ```bash v4l2-ctl --list-devices```
+Be sure to replace ```/dev/video0``` with whatever the device is output
+from ```v4l2-ctl --list-devices```
 
 Congrats, you're off to the races and can now stream video from a digital
 camera; no capture card required.
