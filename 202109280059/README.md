@@ -54,8 +54,8 @@ Which is an alias for:
 ```bash
 gphoto2 --stdout --capture-movie | ffmpeg -i - -vcodec rawvideo -pix_fmt yuv420p -threads 0 -f v4l2 /dev/video0
 ```
-Be sure to replace ```/dev/video0``` with whatever the device is output
-from ```v4l2-ctl --list-devices```
+Be sure to replace ```/dev/video0``` with whatever device is output from
+```v4l2-ctl --list-devices```
 
 Congrats, you're off to the races and can now stream video from a digital
 camera; no capture card required.
