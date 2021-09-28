@@ -2,12 +2,13 @@
 
 Digital cameras can be easily used as a webcam on many Linux distributions. 
 Before attempting this, check [here](http://gphoto.org/proj/libgphoto2/support.php)
-to make sure the that gPhoto2 supports your digital camera.
+to make sure that gPhoto2 supports your digital camera.
 
 There are 3 dependencies for using a digital camera as a webcam on Linux:
 * gPhoto2
 * v4l2loopback
 * ffmpeg
+
 To install these to your system, run:
 ```bash
 sudo apt install gphoto2 v4l2loopback-utils ffmpeg
