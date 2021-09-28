@@ -58,7 +58,7 @@ system that works best for you! Check out the references for more.
 
 
 ## References
-[Introduction to the Zettelkasten Method](https://zettelkasten.de/introduction/#starting-now)
+[Introduction to the Zettelkasten Method](https://zettelkasten.de/introduction/#starting-now) \
 [Two Essays by Niklas Luhmann](https://luhmann.surge.sh/)
 
 
