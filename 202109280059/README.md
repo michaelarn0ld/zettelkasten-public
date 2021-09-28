@@ -1,4 +1,4 @@
-# Using the Sony A6300 as a Webcam
+# Using the Sony A6300 or Other Digital Camera as a Webcam on Linux
 
 Digital cameras can be easily used as a webcam on many Linux distributions. 
 Before attempting this, check [here](http://gphoto.org/proj/libgphoto2/support.php)
