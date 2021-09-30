@@ -7,3 +7,4 @@
 1. #foo
 1. #bar
 1. #test
+1. #newone
