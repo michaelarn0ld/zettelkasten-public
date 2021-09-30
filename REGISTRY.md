@@ -1,8 +1,6 @@
-1. #alpha
 1. #bash
 1. #cooling
 1. #firmware
-1. #gamma
 1. #linux
 1. #python
 1. #rgb
