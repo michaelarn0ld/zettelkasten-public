@@ -1,9 +1,13 @@
 1. #bash
+1. #containerization
+1. #containers
 1. #cooling
+1. #docker
 1. #firmware
 1. #linux
 1. #python
 1. #rgb
 1. #streaming
 1. #virtualenvironment
+1. #virtualization
 1. #webcam
