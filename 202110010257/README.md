@@ -1,4 +1,15 @@
 # Install Docker on Linux
+Docker is a an open source container runtime that runs on various Linux and
+Windows Server operating systems. Docker creates simple tooling and a universal
+packaging approach that bundles up all application dependencies inside a
+container which is then run on Docker Engine. Docker Engine enables
+containerized applications to run anywhere consistently on any infrastructure,
+solving “dependency hell” for developers and operations teams.
+
+To learn more about containers, please check out: [202110010028](../202110010028)
+
+
+## Installation
 Update apt
 ```bash
 sudo apt update
@@ -45,17 +56,18 @@ Verify that docker is working properly
 sudo docker run hello-world
 ```
 
-Add your user to the docker user group (so we dont need root user or sudo)
+Add your user to the docker user group (so we don't need root user or sudo)
 ```bash
 sudo usermod -a -G docker $USER
 ```
 
-For Ubuntu 20.04, this is it! Log out and log back in and you should be good to
+For Ubuntu 20.04, that's it! Log out and log back in and you should be good to
 go!
 
 
 ## References
 [Docker documentation for Linux installation](https://docs.docker.com/engine/install/ubuntu/)
+
 
 ## Tags
 #docker #linux #containers
