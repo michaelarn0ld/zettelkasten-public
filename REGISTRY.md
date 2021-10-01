@@ -4,6 +4,7 @@
 1. #cooling
 1. #docker
 1. #firmware
+1. #kubernetes
 1. #linux
 1. #python
 1. #rgb
