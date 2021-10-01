@@ -9,6 +9,7 @@
 |    images     |    list all the container images                             |
 |    ps         |    list running containers (-a to include idle containers)   |
 |    container  |    manage containers (container rm to remove containers)     |
+|    rmi        |    remove one or more images
 
 
 ## Tags
