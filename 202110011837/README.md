@@ -21,10 +21,13 @@ docker start [OPTIONS] CONTAINER [CONTAINER...]
 |    -t         |    Allocate a pseudo-TTY                              |
 |    --rm       |    Automaticallly remove a container when it exits    |
 
-Please note that ```--rm``` removes the container when it exits, but not
-the container image. For example, if you ```docker run -it --rm ubuntu```,
-all the changes made to that container image instance will be lost when you
-exit; however, the base ***ubuntu imag***e will remain. Running the same command
+Please note that ```--rm``` removes the container when it exits, but not the 
+container image. For example:
+```bash
+docker run -it --rm ubuntu
+```
+All the changes made to that container image instance will be lost when you
+exit; however, the base ***ubuntu image*** will remain. Running the same command
 without ```-rm``` will save the container upon exiting, but not overwrite the
 ubuntu image.
 
