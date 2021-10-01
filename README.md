@@ -63,6 +63,7 @@ The typical Zettel is structured something like this:
 |
 |-- ## Tags
 |---- one or more tags to find this zettel
+```
 
 
 This system works very well for me as the tags provide an easy interface for me
