@@ -19,10 +19,10 @@ not bogged down with the extra overhead of an entire OS.
 malicious code from affecting other containers or the host OS.
 
 ## Containers vs Virtual Machines
-* VM's virtualize the underlying hardware so that multiple OS instances can run
+* VMs virtualize the underlying hardware so that multiple OS instances can run
 on the hardware. Each VM runs its own OS and has access to virtualized resources
 representing the underlying hardware.
-* Due to the nature of VM's, you can run different operating systems on the same
+* Due to the nature of VMs, you can run different operating systems on the same
 machine; however, each VM contains an OS image, libraries, applications, etc and
 therefore can become quite large.
 * Containers virtualize the underlying OS and cause the containerized app to 
