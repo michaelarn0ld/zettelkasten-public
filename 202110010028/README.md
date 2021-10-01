@@ -1,5 +1,6 @@
 # What's a Container and Why Should You Care?
 
+
 ## What's a Container?
 * A container bundles an application's code together with the related 
 configuration files and libraries, and dependencies required for it to run.
@@ -7,6 +8,7 @@ configuration files and libraries, and dependencies required for it to run.
 of the OS. Instead an open source runtime engine (Docker in our case) is
 installed on the host OS and becomes a the conduit by which containers share the
 OS with other containers on the same computing system.
+
 
 ## Why Containers?
 * Containers allow developers to deploy applications seamlessly across platforms
@@ -17,6 +19,7 @@ speeds development and prevents cloud-vendor "lock in".
 not bogged down with the extra overhead of an entire OS.
 * Containers are secure as their inherent isolation prevents the invasion of
 malicious code from affecting other containers or the host OS.
+
 
 ## Containers vs Virtual Machines
 * VMs virtualize the underlying hardware so that multiple OS instances can run
@@ -33,6 +36,10 @@ host OS.
 instances of an application can fit onto the same machine.
 * The major constraint of containers is the operating system which they are
 defined for; a container or Linux can't run on Windows and vice versa.
+
+
+## Related
+[202110010145](../202110010145) - Containers are to Programs as Kubernetes is to Operating System
 
 
 ## Tags
