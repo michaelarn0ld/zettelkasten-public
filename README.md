@@ -44,6 +44,27 @@ unedited ideas as they come. My requirements for a Zettel (note) are:
 * Must contain tags that identify one or more general topics to which the Zettel
 belongs
 
+The typical Zettel is structured something like this:
+```bash
+# Title
+|-- objective and/or purpose
+|
+|-- ## Question 1 or Topic 1
+|---- answer 1 or response 1
+|
+|-- ## Question 2 or Topic 2
+|---- answer 2 or response 2
+|
+|-- ## Question n or Topic n
+|---- answer n or response n
+|
+|-- ## Related
+|---- related zettels
+|
+|-- ## Tags
+|---- one or more tags to find this zettel
+
+
 This system works very well for me as the tags provide an easy interface for me
 to quickly decide whether or not to link to Zettels. The typical creation of one
 of my Zettels goes something like: 
