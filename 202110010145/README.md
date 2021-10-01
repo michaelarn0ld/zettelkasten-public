@@ -11,10 +11,10 @@ for running container (Docker is an example).
 ## Kubernetes is the New OS
 Kubernetes is an open source distributed system that abstracts the underlying
 hardware and makes it easier to run containerized applications at scale. 
-Kubernetes, or K8s, treats all machines in a "cluster" as a single pool of 
-resources. It takes the role of a distributed OS by effectively managing the
-scheduling, allocating the resources, and monitoring the health of the
-infrastructure.
+Kubernetes, or K8s, treats all machines in a "cluster" ([202110010219](../202110010219))
+as a single pool of resources. It takes the role of a distributed OS by
+effectively managing the scheduling, allocating the resources, and monitoring
+the health of the infrastructure.
 
 ## Tags
 #containerization #containers #kubernetes
