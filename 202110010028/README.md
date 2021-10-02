@@ -26,16 +26,17 @@ malicious code from affecting other containers or the host OS.
 on the hardware. Each VM runs its own OS and has access to virtualized resources
 representing the underlying hardware.
 * Due to the nature of VMs, you can run different operating systems on the same
-machine; however, each VM contains an OS image, libraries, applications, etc and
-therefore can become quite large.
+physical machine; however, each VM contains an OS image, libraries,
+applications, etc and therefore can become quite large.
 * Containers virtualize the underlying OS and cause the containerized app to 
 percieve that it has the OS (including CPU, memory, file storage) all to itself.
+* Containers **only** contain the application, its libraries, and dependencies.
 * Containers do not need to boot an OS or load libraries because they share the
 host OS.
 * Containers are lightweight and fast and when compared to VMs, many more
 instances of an application can fit onto the same machine.
 * The major constraint of containers is the operating system which they are
-defined for; a container or Linux can't run on Windows and vice versa.
+defined for; a container for Linux can't run on Windows and vice versa.
 
 
 ## Related
