@@ -44,9 +44,9 @@ options v4l2loopback exclusive_caps=1 max_buffers=2
 
 Awesome! Now the module will always be loaded when you reboot your system.
 We can start using the actual software now. For convenience, there is a bash
-script in ```~/scripts/webcam```. If you are interested in the underlying
-usage of the script be sure to check that out. Otherwise, just know that to
-start the webcam:
+script in ```~/.local/bin/bash-scripts/webcam```. If you are interested in the
+underlying usage of the script be sure to check that out. Otherwise, just know
+that to start the webcam:
 ```bash
 webcam start
 ```
