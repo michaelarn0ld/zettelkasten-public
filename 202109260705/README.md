@@ -17,7 +17,7 @@ investigated and found a very helpful form [here](https://bugzilla.kernel.org/sh
 The solution turned out to be a temporary fix, but it will have to work until a
 better option comes around:
 ```
-mv ~/lib/firmware/iwlwifi-ty-a0-gf-a0.pnvm ~/lib/firmware/iwlwifi-ty-a0-gf-a0_rename.pnvm
+mv /lib/firmware/iwlwifi-ty-a0-gf-a0.pnvm /lib/firmware/iwlwifi-ty-a0-gf-a0_newname.pnvm
 ```
 Simply, just rename the file. Restoring to its original brings back the bug. 
 Apparently, the current firmare is not compatible with this PNVM. Removing the 
