@@ -12,7 +12,12 @@
 |    container  |    manage containers (container rm to remove containers)     |
 |    rmi        |    remove one or more images                                 |
 
-You can also detach from an attached container using ```Ctrl+pq```
+*You can detach from an attached container using ```Ctrl+pq```
+*You can exit from an attached container using ```exit```
+
+Exiting a container is different from detaching from a container. The former
+stops the container and detaches; the latter only detaches from the container
+but the container is still left running and consuming resources.
 
 
 ## Tags
