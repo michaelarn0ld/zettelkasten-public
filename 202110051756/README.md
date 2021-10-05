@@ -25,7 +25,7 @@ ls -l                                        # see permissions of files
 
 
 ## Related
-[202110050353](../202110050353) - Exploring Links (ln) in Linux
+[202110050353](../202110050353) - Exploring Links (ln) in Linux \
 [202110050602](../202110050602) - Understanding Stdin, Stdout, Stderr
 
 
