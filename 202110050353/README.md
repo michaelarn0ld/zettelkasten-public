@@ -1,4 +1,4 @@
-# Exploring Links (ln) in Unix
+# Exploring Links (ln) in Linux
 The ```ln``` command is used to create links between files.
 ```bash
 ln [OPTION] target_file link_name
