@@ -9,6 +9,7 @@
 1. #python
 1. #rgb
 1. #streaming
+1. #sysadmin
 1. #virtualenvironment
 1. #virtualization
 1. #webcam
