@@ -1,9 +1,9 @@
 # Understanding Stdin, Stdout, Stderr
-*When you enter a command, if no file name is given, your keyboard is the 
+* When you enter a command, if no file name is given, your keyboard is the 
 standard input (stdin).
-*Your screen is standard output (stdout); by default, commands take input from
+* Your screen is standard output (stdout); by default, commands take input from
 stdin and send the results (if any) to stdout.
-*Standard error (stderr) is where error messages go; by default, this is your
+* Standard error (stderr) is where error messages go; by default, this is your
 screen.
 
 
@@ -41,8 +41,8 @@ find / > find.both 2>&1
 ```
 
 This translates to:
-*Send ```stdout``` to ```find.both```
-*Send ```stderr``` to ```stdout```
+* Send ```stdout``` to ```find.both```
+* Send ```stderr``` to ```stdout```
 
 
 ## Related
