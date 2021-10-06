@@ -6,8 +6,10 @@
 1. #firmware
 1. #kubernetes
 1. #linux
+1. #processes
 1. #python
 1. #rgb
+1. #shell
 1. #streaming
 1. #sysadmin
 1. #virtualenvironment
