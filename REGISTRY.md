@@ -1,5 +1,4 @@
 1. #bash
-1. #c
 1. #containerization
 1. #containers
 1. #cooling
