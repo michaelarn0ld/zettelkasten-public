@@ -8,6 +8,11 @@
 |   <<         |   left shift      |   5 << 1 = 10   -> 00101 << 1 = 01010     |
 |   >>         |   right shift     |   5 >> 1 = 2    -> 00101 >> 1 = 00010     |
 
+Bitwise clear deserves a little deeper explanation because it is not immediately
+clear what is going on:
+* 5 &^ 9 = 5 & (5 ^ 9)
+* 00000101 & (00000101 ^ 00001001)
+* 00000101 & 00001100 = 00000100
 
 ## Tags
 #go #computerscience
