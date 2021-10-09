@@ -14,5 +14,10 @@ clear what is going on:
 * 00000101 & (00000101 ^ 00001001)
 * 00000101 & 00001100 = 00000100
 
+
+## Related
+[202110090311](../202110090311) - Newton-Raphson Method
+
+
 ## Tags
 #go #computerscience
