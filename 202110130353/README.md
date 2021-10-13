@@ -30,9 +30,9 @@ function addToList(sortedList, element):
     while left <= right:
 
         middle = (left + right) // 2
-        if element is >= than the middle element:
+        if element is >= middle element:
             left = middle + 1
-        otherwise the element is less than the middle element:
+        otherwise the element is < middle element:
             right = middle - 1
 
     add element to sortedList at index left
