@@ -5,8 +5,8 @@
 
 
 ## Related
-[202110071918](../202110071918) - Bitwise Operators
-[202110090311](../202110090311) - Newton-Raphson Method
+[202110071918](../202110071918) - Bitwise Operators \
+[202110090311](../202110090311) - Newton-Raphson Method \
 [202110130301](../202110130301) - Bubble Sort Algorithm
 
 
