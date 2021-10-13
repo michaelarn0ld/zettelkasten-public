@@ -24,8 +24,9 @@ in the second pass, there is no need to compare with the front of the list.
 
 
 ## Related
-[202110071918](../202110071918) - Bitwise Operators
-[202110090311](../202110090311) - Newton-Raphson Method
+[202110071918](../202110071918) - Bitwise Operators \
+[202110090311](../202110090311) - Newton-Raphson Method \
+[202110130353](../202110130353) - Insertion Sort Algorithm
 
 
 ## Tags
