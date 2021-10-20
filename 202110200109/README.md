@@ -81,6 +81,7 @@ longer communicating; they do this to save resources.
 
 
 ## Related
+[202110200316](../202110200316) - Types in JavaScript
 
 
 ## Tags
