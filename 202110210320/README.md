@@ -78,5 +78,8 @@ that are standard HTML.
 |   <selection> |   wraps a heading and some content (wrap each deptartment and its employees in a section)
 
 
+## Related
+[202110210421](../202110210421) - Interesting Details of Inline HTML Elements
+
 ## Tags
 #webdev
