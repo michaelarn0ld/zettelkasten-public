@@ -24,6 +24,9 @@ content="Joe Somebody">```
 ## Related
 [202110210320](../202110210320) - Semantic HTML Block Elements
 [202110210421](../202110210421) - Interesting Details of Inline HTML Elements
+[202110210504](../202110210504) - HTML Media Elements
+[202110210536](../202110210536) - HTML Tables: Quick Tips
+
 
 ## Tags
 #webdev
