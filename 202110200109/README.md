@@ -82,6 +82,7 @@ longer communicating; they do this to save resources.
 
 ## Related
 [202110200316](../202110200316) - Types in JavaScript
+[202110210320](../202110210320) - Semantic HTML Block Elements
 
 
 ## Tags
