@@ -169,5 +169,12 @@ Here is an update of the previous revenue table with these elements:
 </table>
 ```
 
+
+## Related
+[202110210320](../202110210320) - Semantic HTML Block Elements
+[202110210421](../202110210421) - Interesting Details of Inline HTML Elements
+[202110210445](../202110210445) - HTML Head Elements
+[202110210504](../202110210504) - HTML Media Elements
+
 ## Tags
 #webdev
