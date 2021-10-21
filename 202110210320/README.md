@@ -80,6 +80,10 @@ that are standard HTML.
 
 ## Related
 [202110210421](../202110210421) - Interesting Details of Inline HTML Elements
+[202110210445](../202110210445) - HTML Head Elements
+[202110210504](../202110210504) - HTML Media Elements
+[202110210536](../202110210536) - HTML Tables: Quick Tips
+
 
 ## Tags
 #webdev
