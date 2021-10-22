@@ -83,6 +83,7 @@ longer communicating; they do this to save resources.
 ## Related
 [202110200316](../202110200316) - Types in JavaScript
 [202110210320](../202110210320) - Semantic HTML Block Elements
+[202110220323](../202110220323) - CSS Styling: Tables and Forms
 
 
 ## Tags
