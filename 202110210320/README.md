@@ -66,16 +66,16 @@ semantically seperate HTML elements in order to make selection easier. These do
 not add any visual flare and they will always contain one or more child elements
 that are standard HTML.
 
-|   Tag         |   Description
-|   :-:         |   -
-|   <address>   |   wraps content that contains contact information
-|   <aside>     |   wraps elemtents that are indirectly related to the documents main content
-|   <footer>    |   wraps elements that make up footer of a document
-|   <header>    |   wraps elements that contain introductory information
-|   <nav>       |   wraps content for navigation links (top bar or side bar)
-|   <main>      |   wraps content that are the main content of the document
-|   <article>   |   wraps content that might be independently distributed (blog or forum post)
-|   <selection> |   wraps a heading and some content (wrap each deptartment and its employees in a section)
+|   Tag       |   Description
+|   :-:       |   -
+|   address   |   wraps content that contains contact information
+|   aside     |   wraps elemtents that are indirectly related to the documents main content
+|   footer    |   wraps elements that make up footer of a document
+|   header    |   wraps elements that contain introductory information
+|   nav       |   wraps content for navigation links (top bar or side bar)
+|   main      |   wraps content that are the main content of the document
+|   article   |   wraps content that might be independently distributed (blog or forum post)
+|   selection |   wraps a heading and some content (wrap each deptartment and its employees in a section)
 
 
 ## Related
