@@ -8,8 +8,8 @@ Check out the following examples that use ```printf``` to print out all the
 major colors to the screen:
 
 ```sh
-for i in `seq 30 37`
-    do printf "\e[${i}m%s\n" "Hello, ANSI"
+for i in `seq 30 37`; do
+    printf "\e[${i}m%s\n" "Hello, ANSI"
 done
 ```
 
