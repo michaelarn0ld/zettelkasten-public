@@ -14,6 +14,7 @@
 1. #shell
 1. #streaming
 1. #sysadmin
+1. #vim
 1. #virtualenvironment
 1. #virtualization
 1. #webcam
