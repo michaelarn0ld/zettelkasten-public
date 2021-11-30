@@ -6,6 +6,7 @@
 1. #docker
 1. #firmware
 1. #go
+1. #java
 1. #kubernetes
 1. #linux
 1. #processes
