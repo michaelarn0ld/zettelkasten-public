@@ -9,9 +9,9 @@ primitive type can be allocated is 64 bits? How is this related to the size of
 the "word"? \
 A:
 
-Q: How much memory is allocated to char; if 16-bit, does this mean that each 
-CPU "word" can contain 4 characters? Then a 12 character string will reference
-a sequence of 3-words in memory? \
+Q: How much memory is allocated to char; How is this related to its address in
+memory and how the string accesses it? If there are 12 characters in a string,
+does this mean that the string can access 12 different addresses in memory? \
 A:
 
 Q: The default value for reference types is null; does this mean that a reference
