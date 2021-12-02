@@ -16,7 +16,9 @@ public static void addOne(int input) {
 }
 ```
 
-A: In java, ***everything*** is passed by ***copy***; however, objects can be
+A: The answer is no, the variable from the caller will not be manipulated. In
+the example above, the value of ```int i``` will be ```0``` after the call.
+In java, ***everything*** is passed by ***copy***; however, objects can be
 manipulated with methods in place. Strings are an exception! Strings are
 immutable! Even if we have a ```s.reverse()``` method, we would need to approach
 it as ```s = s.reverse()``` to reallocate the memory for the return of the the
