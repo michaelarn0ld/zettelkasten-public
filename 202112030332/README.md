@@ -1,5 +1,11 @@
 # Navigating Files in Vim
 
+|   Commands    |   Summary
+|   :-:         |   -
+|   :edit       |   run this command and press ```tab``` to open a file tree
+|   :b          |   looks for files in the buffer, files added here when visited
+|   
+
 
 ## Related
 [202109270322](../202109270322) - Exploring the Differences between *.bashrc* and *.profile*
