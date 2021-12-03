@@ -2,12 +2,16 @@
 
 |   Commands    |   Summary
 |   :-:         |   -
-|   :edit       |   run this command and press ```tab``` to open a file tree
+|   :e          |   run this command and press ```tab``` to open a file tree
 |   :b          |   looks for files in the buffer
 |   :b <match>  |   only offers files in buffer with some matching expression
 |   :bn         |   go to the next file in the buffer list
 |   :bp         |   go to the previous file in the buffer list
 
+To navigate natively, it might be a good idea to boot vim in the root directory
+of the project and then use the ```:e <Tab>``` command to start adding files to
+the buffer. Once we have enough files we're working with, we can use the short
+```:b``` commands.
 
 ## Related
 [202109270322](../202109270322) - Exploring the Differences between *.bashrc* and *.profile*
