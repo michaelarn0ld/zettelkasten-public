@@ -18,11 +18,17 @@ public static void addOne(int input) {
 
 A: The answer is no, the variable from the caller will not be manipulated. In
 the example above, the value of ```int i``` will be ```0``` after the call.
-In java, ***everything*** is passed by ***copy***; however, objects can be
+In java, ***all values*** are  passed by ***copy***; however, objects can be
 manipulated with methods in place. Strings are an exception! Strings are
 immutable! Even if we have a ```s.reverse()``` method, we would need to approach
 it as ```s = s.reverse()``` to reallocate the memory for the return of the the
 ```s.reverse()``` method.
+
+When you pass a reference type as a parameter to a f(x), the value that is being
+copied is its ***memory reference***. The original reference and the parameter
+reference are different but they point to the same spot in memory. Thus, when
+we make a change to the reference parameter, the change is seen in both the
+original and the reference.
 
 
 ## Related
