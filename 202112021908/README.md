@@ -30,6 +30,12 @@ reference are different but they point to the same spot in memory. Thus, when
 we make a change to the reference parameter, the change is seen in both the
 original and the reference.
 
+There are some similarities! If we assign a ***new value*** to the reference
+parameter, then the reference parameter and the original reference no longer
+point to the same place in memory. Therefore, ***if we change the assignment
+on a reference parameter***, any changes thereafter will have on affect on the
+original reference's memory.
+
 
 ## Related
 [202111300552](../202111300552) - Java: Questions on Strings
