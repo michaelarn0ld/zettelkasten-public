@@ -3,8 +3,10 @@
 |   Commands    |   Summary
 |   :-:         |   -
 |   :edit       |   run this command and press ```tab``` to open a file tree
-|   :b          |   looks for files in the buffer, files added here when visited
-|   
+|   :b          |   looks for files in the buffer
+|   :b <match>  |   only offers files in buffer with some matching expression
+|   :bn         |   go to the next file in the buffer list
+|   :bp         |   go to the previous file in the buffer list
 
 
 ## Related
