@@ -38,6 +38,11 @@ object into an invalid state, we can make the fields we do not want them to
 access ```private```. When we do this, the only way for them to interact with
 those fields is through methods (getters and setters) that they can access.
 
+The ```final``` keyword may appear after an access modifier. If this optional
+keyword is used then it means that once the value for the field is recieved
+during construction, then it can no longer change; after this point it is read
+only!
+
 
 ## Related
 [202111300552](../202111300552) - Java: Questions on Strings
