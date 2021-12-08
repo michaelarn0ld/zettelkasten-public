@@ -50,7 +50,13 @@ A:
 Q: Does omitting an access modifier from a method signature imply that it is
 protected?
 
-A:
+A: 
+| Modifier  |   Use
+|   :-:     |   :-:
+|   public  |   accessible for all classes
+|   private |   accessible only within the declared class
+|   default |   accessible only within the same package
+| protected |   accessible only within the same package and all subclasses
 
 ## Related
 [202111300552](../202111300552) - Java: Questions on Strings
