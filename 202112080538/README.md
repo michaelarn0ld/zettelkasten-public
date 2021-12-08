@@ -47,6 +47,10 @@ the Player class (they are children/subclasses of Player)?
 
 A:
 
+Q: Does omitting an access modifier from a method signature imply that it is
+protected?
+
+A:
 
 ## Related
 [202111300552](../202111300552) - Java: Questions on Strings
