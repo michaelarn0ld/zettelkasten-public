@@ -52,7 +52,7 @@ protected?
 
 A: 
 | Modifier  |   Use
-|   :-:     |   :-:
+|   :-:     |   -
 |   public  |   accessible for all classes
 |   private |   accessible only within the declared class
 |   default |   accessible only within the same package
