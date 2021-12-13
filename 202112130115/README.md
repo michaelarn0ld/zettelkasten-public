@@ -1,7 +1,7 @@
 # Java: Popular Maven Commands
 
 |   Command                                         |   Use
-|   :-:                                             |   -
+|   -                                               |   -
 |   mvn clean compile                               |   Compiles code
 |   mvn clean test -Dtest=xxxTest                   |   Runs the tests (-Dtest to run a specific test)
 |   mvn clean install                               |   Compiles, tests, and packages the Java project
