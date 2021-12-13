@@ -24,9 +24,15 @@ be made of ```Phone phone``` and ```String name```.
 
 
 ## Related
-[202111300552](../202111300552) - Java: Questions on Strings\
-[202112021908](../202112021908) - Java: References or Copies?\
-[202112061620](../202112061620) - Java: Class Syntax
+[202111300552](../202111300552) - Java: Questions on Strings/
+[202112021908](../202112021908) - Java: References or Copies?/
+[202112061553](../202112061553) - Java: Intro to OOP/
+[202112061620](../202112061620) - Java: Class Syntax/
+[202112080538](../202112080538) - Java: Questions on Inheritance/
+[202112080610](../202112080610) - Java: On Using Interfaces/
+[202112080626](../202112080626) - Java: 4 Pillars of OOP/
+[202112081910](../202112081910) - Java: On Static Methods and Non-Static State/
+[202112130115](../202112130115) - Java: Popular Maven Commands
 
 
 ## Tags
