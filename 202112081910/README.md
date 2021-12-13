@@ -11,7 +11,7 @@ the context of any individual instance of an object.
 [202112061620](../202112061620) - Java: Class Syntax\
 [202112080538](../202112080538) - Java: Questions on Inheritance\
 [202112080610](../202112080610) - Java: On Using Interfaces\
-[202112080626](../202112080626) - Java: 4 Pillars of OOP\
+[202112080626](../202112080626) - Java: 4 Pillars of OOP
 
 
 ## Tags
