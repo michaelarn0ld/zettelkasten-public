@@ -9,6 +9,7 @@
 1. #java
 1. #kubernetes
 1. #linux
+1. #maven
 1. #processes
 1. #python
 1. #rgb
