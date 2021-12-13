@@ -2,8 +2,10 @@
 
 The syntax for a class defintion is an optional access modifier, the class
 keyword, a name, and a code block.
-```[access modifier] class [name] {
-}```
+```
+[access modifier] class [name] {
+}
+```
 
 A class level variable is defined and optionally assigned inside of a class
 code block
@@ -11,8 +13,10 @@ code block
 
 A constructor is a method-like subroutine that ensures an object is instantiated
 in a valid state.
-```[access modifier] [class name] ([type][parameter 1],...,[type][parameter n]) {
-}```
+```
+[access modifier] [class name] ([type][parameter 1],...,[type][parameter n]) {
+}
+```
 In a similar fashion to methods, constructors can also be overloaded. You may
 have more than one constructor for a class, but each constructor must have a 
 unique combination of parameters.
