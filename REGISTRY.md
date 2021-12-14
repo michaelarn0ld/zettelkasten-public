@@ -5,6 +5,7 @@
 1. #cooling
 1. #docker
 1. #firmware
+1. #git
 1. #go
 1. #java
 1. #kubernetes
