@@ -1,4 +1,4 @@
-# Spring: @Qualifier vs @Profile (Unresolved Question)
+# Spring: "@Qualifier" vs "@Profile" (Unresolved Question)
 Was browsing through the Spring docs. Started thinking about @Qualifier and
 @Profile. Is it fair to say that both of these help resolve DI when there are
 multiple options, but in slightly different ways? In example 1:
