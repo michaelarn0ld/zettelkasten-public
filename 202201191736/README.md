@@ -2,11 +2,11 @@
 ```create-react-app``` is a beast of a command; it allows developers to quickly
 get up and running with React, without having to think about the technical
 details. Because of its' approach however, it does come with a few flaws. It may
-bloat your project by providing several out-of-the-box that your project does
-not require. It also makes it difficult to add custom build configurations since
-it hides what is installed under the hood. Finally, it also hides ***the
-requirements*** of a React application from developers, making them dependent
-on the tool.
+bloat your project by providing several out-of-the-box dependencies that your
+project does not require. It also makes it difficult to add custom build
+configurations since it hides what is installed under the hood. Finally, it also
+hides ***the requirements*** of a React application from developers, making them
+dependent on the tool.
 
 ## Setup
 Go to directory where your projects live and create a new directory for your
