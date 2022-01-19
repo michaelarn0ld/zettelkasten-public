@@ -1,4 +1,4 @@
-# Create React App W/O create-react-app
+# Create a React applcation without create-react-app
 ```create-react-app``` is a beast of a command; it allows developers to quickly
 get up and running with React, without having to think about the technical
 details. Because of its' approach however, it does come with a few flaws. It may
@@ -43,7 +43,7 @@ subsequent steps, so we do not need to manually create them:
 * ```package.json```
 * ```package-lock.json```
 * ```webpack.config.js```
-* ```node/```
+* ```node_modules/```
 * ```dist/``` (this is the location of our production build)
 
 Make sure to grab the ```barebones-react``` script from
@@ -174,7 +174,7 @@ everything works correctly!
 [202110210445](../202110210445) - HTML Head Elements \
 [202110210504](../202110210504) - HTML Media Elements \
 [202110210536](../202110210536) - HTML Tables: Quick Tips \
-[202110220323](../202110220323) - CSS Styling: Tables and Forms \
+[202110220323](../202110220323) - CSS Styling: Tables and Forms
 
 ## Tags
 #webdev #react
