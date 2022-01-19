@@ -75,7 +75,7 @@ to
 ...
 "scripts": {
     "start": "webpack-dev-server --mode development --open --hot",
-    "start": "webpack --mode production"
+    "build": "webpack --mode production"
 }
 ...
 ```
