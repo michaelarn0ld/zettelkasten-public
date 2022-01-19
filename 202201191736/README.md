@@ -82,7 +82,7 @@ to
 
 Add the following to ```webpack.congfig.js```:
 ```js
-const path = requre('path');
+const path = require('path');
 const HTMLWebpackPlugin = require('html-webpack-plugin');
 
  module.exports = {                                                           
@@ -153,7 +153,7 @@ ReactDOM.render(<App />, document.getElementById('root'));
 ```js
 import React from "react";
 
-export default const App = () => {
+export default function App() => {
     return (
     <div>
         <h1>Hello, React!</h1>
