@@ -153,7 +153,7 @@ ReactDOM.render(<App />, document.getElementById('root'));
 ```js
 import React from "react";
 
-export default function App(){
+export default function App() {
     return (
     <div>
         <h1>Hello, React!</h1>
