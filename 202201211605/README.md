@@ -5,12 +5,15 @@ former gives the interpretter more opportunities to optimize things internally.
 One of the other ***critical*** differences between the two is that ```await```
 is mechanically more similar to synchronous programming; it is used to wait
 for the resolution or rejection of a ```Promise```. In this way, code below the
-```await``` will not excecute until the ```Promise``` fufills. The ```.then()```
-branches off; it attaches the asynchronous function to the runtime and a
-callback function to be called when the ```Promise``` is fufilled.
+```await``` will not excecute until the ```Promise``` fufills.
+
+The ```.then()``` branches off; it attaches the asynchronous function (and its
+callback) to the runtime, continues execution in its current scope, and then
+executes the callback when the ```Promise``` is fufilled.
 
 Consider the following:
 ```js
+// imagine that call is a function that is fetching data from an API
 function call(timeout) {
   return new Promise((resolve, reject) => {
     setTimeout(() => {
