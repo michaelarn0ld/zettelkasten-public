@@ -8,6 +8,7 @@
 1. #git
 1. #go
 1. #java
+1. #javascript
 1. #kubernetes
 1. #linux
 1. #maven
