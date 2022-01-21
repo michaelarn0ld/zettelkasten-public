@@ -53,8 +53,10 @@ This call took 5 seconds
 ***ALWAYS ENSURE PROPER ERROR HANDLING WHEN USING ASYNCHRONOUS FUNCTIONALITY***
 
 ## Related
-[202110200316](../202110200316) - Types in JavaScript
-[202201191736](../202201191736) - Create a React applcation without create-react-app
+[202110200316](../202110200316) - Types in JavaScript \
+[202201191736](../202201191736) - Create a React applcation without create-react-app \
+[MDN Async/Await](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await) \
+[Helpful Stack Overflow Discussion](https://stackoverflow.com/questions/54495711/async-await-vs-then-which-is-the-best-for-performance)
 
 ## Tags
 #webdev #javascript
