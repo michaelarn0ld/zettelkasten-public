@@ -108,7 +108,8 @@ const HTMLWebpackPlugin = require('html-webpack-plugin');
                  use: {                                                       
                      loader: 'babel-loader',                                  
                      options: {                                               
-                         presets: ['@babel/preset-env', '@babel/preset-react']
+                         presets: ['@babel/preset-env', '@babel/preset-react'],
+                         plugins: ['@babel/plugin-transform-runtime']
                      }                                                        
                  }                                                            
              }                                                                
@@ -122,7 +123,8 @@ Briefly, these configurations tell webpack that the root of the dependency graph
 is at ```./src/index.js```, the build bundle will go to ```./dist/bundle.js```,
 React will be injecting its code into file ```./src/index.html``` as the
 template, and finally babel will transpile all javascript files except those with
-```node_modules``` included in their path.
+```node_modules``` included in their path. The `@babel/plugin-transform-runtime`
+allows us to avoid `regeneratorRuntime is not defined` when using `async/await`
 
 Time for some boilerplate in ```index.js```, ```index.html```, and ```App.js```:
 
