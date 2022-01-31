@@ -1,5 +1,6 @@
 1. #algorithms
 1. #bash
+1. #bigO
 1. #computerscience
 1. #containerization
 1. #containers
