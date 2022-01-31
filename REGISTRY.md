@@ -1,12 +1,15 @@
+1. #algorithms
 1. #bash
 1. #computerscience
 1. #containerization
 1. #containers
 1. #cooling
+1. #datastructures
 1. #docker
 1. #firmware
 1. #git
 1. #go
+1. #interview
 1. #java
 1. #javascript
 1. #kubernetes
