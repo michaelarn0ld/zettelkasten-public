@@ -1,6 +1,6 @@
-# Technical Interview Preparation: Hub Node
+# Software Interview Preparation: Hub Node
 Perfecting the Resume-------------------------[202202020445](../202202020445) \
-Behavioral Interview Guidelines---------------[202201310334](../202201310334) \
+Behavioral Interview Guidelines---------------[202202020505](../202202020505) \
 Technical Interview Guidelines----------------[202201310334](../202201310334) \
 Big O Notation--------------------------------[202201310422](../202201310422) \
 Data Structures-------------------------------[202201310334](../202201310334) \
