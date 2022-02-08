@@ -68,5 +68,66 @@ int firstBadVersion(int n) {
 }
 ```
 
+## Binary Search [ recursive ]
+* Time Complexity: O(logn) 
+* Space Complexity: O(logn) -> call stack
+* Note: Container elements in sorted order
+```java
+int binarySearch(int[] nums, int target) {
+    return binarySearchHelper(nums, 0, nums.length - 1, target);
+}
+
+int binarySearchHelper(int[] nums, int lo, int hi, int target) {
+    if (lo > hi) {
+        return -1;
+    }
+    int mid = (lo + hi) / 2;
+    if (target == nums[mid]) {
+        return mid;
+    } else if (target > nums[mid]) {
+        return binarySearchHelper(nums, mid + 1, hi, target);
+    } else {
+        return binarySearchHelper(nums, lo, mid - 1, target);
+    }
+}
+```
+
+## Binary Search [ BST iterative ]
+* Time Complexity: O(H) where H = tree height: average -> O(logn) worst -> O(N)
+* Space Complexity: O(1)
+* Note: Container should be a BST
+```java
+boolean binarySearch(Node root, int target) {
+    Node current = root;
+    while (current != null) {
+        if (target == current.data) {
+            return true;
+        } else if (target > current.data) {
+            current = current.right;
+        } else {
+            current = current.left;
+        }
+    }
+    return false;
+}
+```
+
+## Binary Search [ BST recursive ]
+* Time Complexity: O(H) where H = tree height: average -> O(logn) worst -> O(N)
+* Space Complexity: O(H) where H = tree height: average -> O(logn) worst -> O(N)
+* Note: Container elements in sorted order
+```java
+boolean binarySearch(Node root, int target) {
+    if (root == null) {
+        return false;
+    } else if (target > root.data) {
+        return binarySearch(root.right, target);
+    } else if (target < root.data) {
+        return binarySearch(root.left, target);
+    }
+    return true;
+}
+```
+
 ## Tags
 #interview #algorithms
