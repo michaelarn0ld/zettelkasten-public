@@ -24,13 +24,32 @@ void preOrder(Node root) {
     }
 }
 ```
-* In-Order Traveral
+* In-Order Traveral [ recursive ]
 ```java
 void inOrder(Node root) {
     if (root != null) {
         inOrder(root.left);
         visit(root);
         inOrder(root.right);
+    }
+}
+```
+* In-Order Traveral [ iterative ]
+```java
+void inOrder(Node root) {
+    Stack<Node> stack = new Stack<>();
+    Node curr = root;
+
+    while(curr != null || !stack.empty()) {
+
+        while (curr != null) {
+            stack.add(curr);
+            curr = curr.left;
+        }
+
+        curr = stack.pop();
+        visit(curr);
+        curr = curr.right;
     }
 }
 ```

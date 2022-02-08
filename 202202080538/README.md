@@ -129,5 +129,8 @@ boolean binarySearch(Node root, int target) {
 }
 ```
 
+## Sliding Window
+## Two Pointers
+
 ## Tags
 #interview #algorithms
