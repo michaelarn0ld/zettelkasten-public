@@ -15,7 +15,7 @@
 | Graph     | Clone Graph                               |
 | Graph     | Course Schedule                           |
 | Graph     | Pacific Atlantic Water Flow               |
-| Graph     | Number of Islands                         |
+| Graph     | Number of Islands                         | iterate over matrix -> if cell is '1' then it is an island -> BFS island to find boundaries, search unvisited cells with values == '1' (keep track of visited nodes in a set) -> When BFS determines boundaries, increment island count and continue matrix iteration -> when you find another '1' cell, only increment islands and BFS it if it has not already been visited (it is not part of another island) --> return island count
 | Graph     | Longest Consecutive Sequence              |
 | Graph     | Alien Dictionary                          |
 | Graph     | Graph Valid Tree                          |
