@@ -1,8 +1,8 @@
 # Technical Interview: Core Questions
 | Category  | Name                                      |   Notes
 | -         | -                                         |   -
-| Array     | Two Sum                                   |   
-| Array     | Best Time to Buy & Sell Stock             |
+| Array     | Two Sum                                   | single pass over array -> keep track of numbers and their indices -> if target - current number is in the hashmap, return the indices of current number and its compliment -> add current number and its indice to the hashmap  
+| Array     | Best Time to Buy & Sell Stock             | single pass over the array -> min(current minimum, todays price) -> max(current max profit, todays price - minimium price);
 | Array     | Contains Duplicate                        |
 | Array     | Product of Array Except Self              |
 | Array     | Maximum Subarray                          |
@@ -12,7 +12,7 @@
 | Array     | 3Sum                                      |
 | Array     | Container w/ Most Water                   |
 | Array     | Fruits in Baskets                         |
-| Graph     | Clone Graph                               |
+| Graph     | Clone Graph                               | BFS so keep a queue of original nodes -> Visited nodes will be kept in a HashMap<Node, Node> that maps original->clone -> While the queue has stuff in it, grab the front of the queue (queue only contains unvisited originals)-> for each neighbor node that has not yet been visited, enqueue it and create a clone of it in our hash table -> add the clone of the neighbor to list of the clone of THIS (polled Node) node's neighbors
 | Graph     | Course Schedule                           |
 | Graph     | Pacific Atlantic Water Flow               |
 | Graph     | Number of Islands                         | iterate over matrix -> if cell is '1' then it is an island -> BFS island to find boundaries, search unvisited cells with values == '1' (keep track of visited nodes in a set) -> When BFS determines boundaries, increment island count and continue matrix iteration -> when you find another '1' cell, only increment islands and BFS it if it has not already been visited (it is not part of another island) --> return island count
