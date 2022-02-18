@@ -9,7 +9,7 @@
 | Array     | Maximum Product Subarray                  |
 | Array     | Find Minimum in Rotated Sorted Array      |
 | Array     | Search in Rotated Sorted Array            |
-| Array     | 3Sum                                      |
+| Array     | 3Sum                                      | We want to perform a 2Sum (sorted) for every unique element of the nums[] -> sort nums and iterate over nums, if it is the first element or if the element the the left of ME is different, then lets perform a two sum -> 2Sum rules: take the original array and the index we were called from, we will only look at the subarray right of the calling index -> the array is sorted so put a left and right pointer on it -> sum the number at the calling index, the left index, and the right index, if it is less than 0 increment the left pointer, if it greater than 0, decrement the right index -> if it is 0, add a list of the three indices (caller, left, right) to the result and move the left pointer right until it is at a different value than what just succeeded (making sure it less than the right)
 | Array     | Container w/ Most Water                   |
 | Array     | Fruits in Baskets                         |
 | Graph     | Clone Graph                               | BFS so keep a queue of original nodes -> Visited nodes will be kept in a HashMap<Node, Node> that maps original->clone -> While the queue has stuff in it, grab the front of the queue (queue only contains unvisited originals)-> for each neighbor node that has not yet been visited, enqueue it and create a clone of it in our hash table -> add the clone of the neighbor to list of the clone of THIS (polled Node) node's neighbors
