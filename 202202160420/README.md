@@ -21,7 +21,7 @@
 | Graph     | Graph Valid Tree                          |
 | Graph     | Connected Components in Undirecetd Graph  |
 | Tree      | Maximum Depth Binary Tree                 |
-| Tree      | Same Tree                                 |
+| Tree      | Same Tree                                 | If both roots are null, then the trees are the same! If one root is null and the other is not or their values are different, then the trees are different! -> otherwise, the roots are not null and their current values are the same so lets recursively check the left and right subtrees until we meet a base case!
 | Tree      | Invert Tree                               |
 | Tree      | Binary Tree Maximum Path Sum              |
 | Tree      | Binary Tree Level Order Traversal         |
