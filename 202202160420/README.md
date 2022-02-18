@@ -26,7 +26,7 @@
 | Tree      | Binary Tree Maximum Path Sum              |
 | Tree      | Binary Tree Level Order Traversal         |
 | Tree      | Serialize & Deserialize Binary Tree       |
-| Tree      | Subtree of Another Tree                   |
+| Tree      | Subtree of Another Tree                   | There is 1 or more nodes in the root and the subRoot, so we will recursively check sub-trees from the root until one matches or they all fail -> while the root is not null, if THIS root is equivalent to the subRoot we are looking for -> recursively process the left and right subtrees of THIS root check them against the GLOBAL subtree -> the method that checks whether a given root and subroot are the same has the following logic: if root and subroot are both null then the trees are the same, if one or the other is null or their values are different then the trees are different, otherwise the values are the same, so recursively check that the roots left subtree is equal to the subRoots left subtree and the roots right subtree is equal to the subRoots right subtree
 | Tree      | Construct Tree from Preorder Inorder      |
 | Tree      | Validate BST                              |
 | Tree      | Kth Smallest Element in a BST             |
