@@ -34,10 +34,10 @@
 | Tree      | Implement Trie                            |
 | Tree      | Add and Search Word                       |
 | Tree      | Word Search II                            |
-| String    | Longest Substring w/o Repeating Char      |
+| String    | Longest Substring w/o Repeating Char      | Sliding window (fast/slow)! Use a map to (k,v) = (char, freq) -> keep track of current substring length and maximum subtring length -> iterate over the FAST and increment the frequency of the current character, increment the current substring length as well -> while the frequency of the FAST char is greater than 0 (substring does not contain all uniques), first update the max, then decrement the freq of the char at the SLOW pointer, decrement the current substring length, and move the SLOW ptr to the right -> once this is all done, we have iterated over the entire string, return the maximum substring length (max of max and current)
 | String    | Minimum Window Substring                  |
-| String    | Valid Anagram                             |
-| String    | Group Anagrams                            |
+| String    | Valid Anagram                             | Strings that are not equal length are not anagrams -> the problem constrains us to lowercase english characters so initialize an int[26] to store the frequencies of character -> simutaneously iterate over both strings (s, t) and increment the frequency of char in s, decrement the frequency of char in t -> if the strings are anagrams, then all characters should have cancelled each other out and the frequency array should only contain zeroes.
+| String    | Group Anagrams                            | We are going to hash the strings into their character frequencies -> "aab" becomes "#2#1#0#0#0..." -> We will keep these String hashes and a List<String> of their concrete implementations in a Map<String, List<String>> -> we iterate over the list of strings, we check if the map contains the hash of the current string, if it does not then we add the hash of the string and an empty List -> we then add the concrete string to the list that belongs to its hash in the map -> when we are done iterating over the list of strings we have a hashmap of hashes and the list of strings that match -> iterate over the map and add the values to a List<List<String>> result -> return result
 | String    | Palindromic Substring                     |
 | String    | Encode and Decode String                  |
 
