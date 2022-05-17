@@ -1,6 +1,16 @@
 # Configuring IntelliJ: Autoreload + Lombok Enabling
 
-## Autoreload
+## Autoreload (Spring Boot)
+* Make sure you have the following dependency
+  ```
+  <dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-devtools</artifactId>
+    <scope>runtime</scope>
+    <optional>true</optional>
+  </dependency>
+  ```
+* Make sure auto-build is enabled: Build -> Compiler
 
 ## Lombok
 * Make sure Lombok IntelliJ plugin is installed!
