@@ -15,6 +15,7 @@
 1. #javascript
 1. #kubernetes
 1. #linux
+1. #math
 1. #maven
 1. #processes
 1. #python
