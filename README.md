@@ -34,6 +34,10 @@ hyperlinked ideas **will** gradually connect and create a web of surfable
 knowledge.
 
 
+## Software
+You can find the software that enables zettelkasten, `zet`, as part of my
+bash scripts collection [here](https://gitlab.com/michaelarn0ld/bash-scripts-linux).  
+
 ## How My Zettelkasten Is Structured
 A Zettelkasten is a personalized tool for optimizing thinking and writing. It is 
 not meant to serve as a repository for final drafts, but rather a place to store
