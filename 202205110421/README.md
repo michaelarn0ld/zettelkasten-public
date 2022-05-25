@@ -29,9 +29,9 @@ tmux
 ```
 ./foo > out.log &    #start foo in the background and redirect stdout to out.log
 ```
-* Dettach the tmux session
+* Detach the tmux session `CTRL+A, d` or within tmux session run
 ```
-CTRL+A, d
+tmux detach
 ```
 * Exit SSH
 * SSH back into the host machine and attach the tmux session
