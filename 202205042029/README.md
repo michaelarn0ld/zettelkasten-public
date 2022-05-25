@@ -29,6 +29,21 @@ git checkout newbranch      # Go to the new branch that still has the desired co
 For the guide full guide on how this is done, check it out [here](https://stackoverflow.com/questions/1628563/move-the-most-recent-commits-to-a-new-branch-with-git).
 
 
+## Doing a Diff in Terminal
+The build in `git diff` command is actually a really good way to check out how
+changes happen in git.
+
+Here are three really common uses for it
+* When you want to see how the current state of your repository looks compared
+to the head, use `git diff HEAD`
+* When you want to see how the current state of your repository looks compared
+to a given commit, use `git diff <commit SHA>`
+* When you want to see the differences between two commits, you can use
+`git diff <start commit SHA>..<end commit SHA>`
+
+Like anything else, you can redirect the output to a file for easier viewing.
+
+
 ## Related
 [202112140549](../202112140549) - Git: Helpful Commands
 
