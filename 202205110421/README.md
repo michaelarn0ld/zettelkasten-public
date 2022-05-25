@@ -11,6 +11,38 @@ Alternatively, if you just want to edit the file, you can do so like this:
 vi $(which [EXECUTABLE_ON_PATH])
 ```
 
+## Running Background Process on SSH Machine + Leaving SSH W/O Killing Process
+I have found that sometimes you want to run a process in the background on a
+machine you are ssh'd into but then later you end up wanting to exit the ssh
+session and want to keep the process running. Other cases might be that you are
+AFK for some time and if your local machine goes "to sleep" then you might 
+encounter a broken pipe, thus killing whatever process you were running on the
+ssh machine.
+
+To avoid this, we can do the following!
+* SSH into the machine where the process will be run
+* Start a tmux session
+```
+tmux
+```
+* Start the process
+```
+./foo > out.log &    #start foo in the background and redirect stdout to out.log
+```
+* Dettach the tmux session
+```
+CTRL+A, d
+```
+* Exit SSH
+* SSH back into the host machine and attach the tmux session
+```
+tmux attach
+```
+* Notice that the job is running inside of tmux, look with
+```
+jobs
+```
+
 
 ## Related
 [202110090443](../202110090443) - Shell Tips: Use 'bc' as a Calculator
