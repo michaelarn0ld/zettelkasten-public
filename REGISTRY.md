@@ -11,6 +11,7 @@
 1. #firmware
 1. #git
 1. #go
+1. #heap
 1. #interview
 1. #java
 1. #javascript
@@ -18,6 +19,7 @@
 1. #linux
 1. #math
 1. #maven
+1. #memory
 1. #processes
 1. #python
 1. #react
