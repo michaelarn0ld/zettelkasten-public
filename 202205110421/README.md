@@ -43,7 +43,21 @@ tmux attach
 jobs
 ```
 
+## Pause a Process
+You can pause a process like this
+```
+kill -STOP <PID>
+```
+You can resume it later with
+```
+kill -CONT <PID>
+```
 
+Say you want to kill all processes Java processes that are being run by user
+"user_foo", then you can execute the following:
+```
+kill -9 $(ps -o user,pid -p $(pgrep java) | grep user_foo | awk '{print $2}')
+```
 ## Related
 [202110090443](../202110090443) - Shell Tips: Use 'bc' as a Calculator
 [202111031844](../202111031844) - Working with Delimited Data
