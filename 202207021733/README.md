@@ -1,13 +1,116 @@
 # Behavioral Interview: Leadership Principles
 
-LP="Customer Obsession:Ownership:Invent and Simplify:Are Right, A Lot:Learn and Be Curious:Hire and Develop the Best:Insist on the Highest Standards:Think Big:Bias for Action:Frugality:Earn Trust:Dive Deep:Have Backbone; Disagree and Commit:Deliver Results"
-IFS=:
-for i in $LP; do
-  echo $i
-  n=${#i}
-  printf "%0.s-" {1..$n}
-  echo ""
-done
+Customer Obsession
+------------------
+Situation: 
+Task: 
+Action: 
+Result: 
+
+
+Ownership
+---------
+Situation: 
+Task: 
+Action: 
+Result: 
+
+
+Invent and Simplify
+-------------------
+Situation: 
+Task: 
+Action: 
+Result: 
+
+
+Are Right, A Lot
+----------------
+Situation: 
+Task: 
+Action: 
+Result: 
+
+
+Learn and Be Curious
+--------------------
+Situation: 
+Task: 
+Action: 
+Result: 
+
+
+Hire and Develop the Best
+-------------------------
+Situation: 
+Task: 
+Action: 
+Result: 
+
+
+Insist on the Highest Standards
+-------------------------------
+Situation: 
+Task: 
+Action: 
+Result: 
+
+
+Think Big
+---------
+Situation: 
+Task: 
+Action: 
+Result: 
+
+
+Bias for Action
+---------------
+Situation: 
+Task: 
+Action: 
+Result: 
+
+
+Frugality
+---------
+Situation: 
+Task: 
+Action: 
+Result: 
+
+
+Earn Trust
+----------
+Situation: 
+Task: 
+Action: 
+Result: 
+
+
+Dive Deep
+---------
+Situation: 
+Task: 
+Action: 
+Result: 
+
+
+Have Backbone; Disagree and Commit
+----------------------------------
+Situation: 
+Task: 
+Action: 
+Result: 
+
+
+Deliver Results
+---------------
+Situation: 
+Task: 
+Action: 
+Result: 
 
 
 ## Tags
+#interview
