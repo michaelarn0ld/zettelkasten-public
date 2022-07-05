@@ -2,114 +2,114 @@
 
 Customer Obsession
 ------------------
-Situation: 
-Task: 
-Action: 
-Result: 
+S:
+T:
+A:
+R:
 
 
 Ownership
 ---------
-Situation: 
-Task: 
-Action: 
-Result: 
+S: 
+T: 
+A: 
+R: 
 
 
 Invent and Simplify
 -------------------
-Situation: 
-Task: 
-Action: 
-Result: 
+S: 
+T: 
+A: 
+R: 
 
 
 Are Right, A Lot
 ----------------
-Situation: 
-Task: 
-Action: 
-Result: 
+S: 
+T: 
+A: 
+R: 
 
 
 Learn and Be Curious
 --------------------
-Situation: 
-Task: 
-Action: 
-Result: 
+S: 
+T: 
+A: 
+R: 
 
 
 Hire and Develop the Best
 -------------------------
-Situation: 
-Task: 
-Action: 
-Result: 
+S: 
+T: 
+A: 
+R: 
 
 
 Insist on the Highest Standards
 -------------------------------
-Situation: 
-Task: 
-Action: 
-Result: 
+S: 
+T: 
+A: 
+R: 
 
 
 Think Big
 ---------
-Situation: 
-Task: 
-Action: 
-Result: 
+S: 
+T: 
+A: 
+R: 
 
 
 Bias for Action
 ---------------
-Situation: 
-Task: 
-Action: 
-Result: 
+S: 
+T: 
+A: 
+R: 
 
 
 Frugality
 ---------
-Situation: 
-Task: 
-Action: 
-Result: 
+S: 
+T: 
+A: 
+R: 
 
 
 Earn Trust
 ----------
-Situation: 
-Task: 
-Action: 
-Result: 
+S: 
+T: 
+A: 
+R: 
 
 
 Dive Deep
 ---------
-Situation: 
-Task: 
-Action: 
-Result: 
+S: 
+T: 
+A: 
+R: 
 
 
 Have Backbone; Disagree and Commit
 ----------------------------------
-Situation: 
-Task: 
-Action: 
-Result: 
+S: 
+T: 
+A: 
+R: 
 
 
 Deliver Results
 ---------------
-Situation: 
-Task: 
-Action: 
-Result: 
+S: 
+T: 
+A: 
+R: 
 
 
 ## Tags
