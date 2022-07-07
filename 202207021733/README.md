@@ -2,7 +2,7 @@
 
 Customer Obsession
 ------------------
-S:
+S: RDS Migration Story - Promote Replica Cluster
 T:
 A:
 R:
@@ -10,7 +10,7 @@ R:
 
 Ownership
 ---------
-S: 
+S: MTR On RDS 5.7 
 T: 
 A: 
 R: 
@@ -18,7 +18,7 @@ R:
 
 Invent and Simplify
 -------------------
-S: 
+S: Restart mysqld Logic on RDS 5.7 MTR - HM Restarts Several Times / Restore Options  
 T: 
 A: 
 R: 
@@ -34,7 +34,7 @@ R:
 
 Learn and Be Curious
 --------------------
-S: 
+S: Self Learn About DynamoDB, ECS, CloudWatch + Using Sage 
 T: 
 A: 
 R: 
@@ -66,7 +66,7 @@ R:
 
 Bias for Action
 ---------------
-S: 
+S: Solving MTR Issues Before they Affect Customers and Before I receive A Ticket 
 T: 
 A: 
 R: 
@@ -74,7 +74,7 @@ R:
 
 Frugality
 ---------
-S: 
+S: Display Frugality on A Personal Level 
 T: 
 A: 
 R: 
@@ -90,7 +90,7 @@ R:
 
 Dive Deep
 ---------
-S: 
+S: Memory Leak Due To CloudWatch Agent Throttling 
 T: 
 A: 
 R: 
@@ -106,7 +106,7 @@ R:
 
 Deliver Results
 ---------------
-S: 
+S: Create Read Replica from RDS MySQL Instance 
 T: 
 A: 
 R: 
