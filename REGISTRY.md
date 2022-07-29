@@ -13,6 +13,7 @@
 1. #firmware
 1. #git
 1. #go
+1. #hashing
 1. #heap
 1. #interview
 1. #java
