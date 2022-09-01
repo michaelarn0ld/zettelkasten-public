@@ -1,9 +1,9 @@
 1. #
-1. #Tags
 1. #algorithms
 1. #bash
 1. #bigO
 1. #computerscience
+1. #concurrent
 1. #containerization
 1. #containers
 1. #content
@@ -22,6 +22,7 @@
 1. #math
 1. #maven
 1. #memory
+1. #parallel
 1. #processes
 1. #python
 1. #react
@@ -31,6 +32,7 @@
 1. #spring
 1. #streaming
 1. #sysadmin
+1. #Tags
 1. #virtualenvironment
 1. #virtualization
 1. #webcam
