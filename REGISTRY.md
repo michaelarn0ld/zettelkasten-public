@@ -1,4 +1,5 @@
 1. #
+1. #Tags
 1. #algorithms
 1. #bash
 1. #bigO
@@ -19,6 +20,7 @@
 1. #java
 1. #javascript
 1. #kubernetes
+1. #life
 1. #linux
 1. #math
 1. #maven
@@ -34,7 +36,6 @@
 1. #spring
 1. #streaming
 1. #sysadmin
-1. #Tags
 1. #virtualenvironment
 1. #virtualization
 1. #webcam
