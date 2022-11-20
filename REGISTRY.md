@@ -34,9 +34,11 @@
 1. #performance
 1. #personal
 1. #personal
+1. #personal
 1. #processes
 1. #python
 1. #react
+1. #relationships
 1. #resume
 1. #rgb
 1. #shell
