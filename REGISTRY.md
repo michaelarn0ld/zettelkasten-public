@@ -3,6 +3,7 @@
 1. #algorithms
 1. #bash
 1. #bigO
+1. #career
 1. #computerscience
 1. #concurrent
 1. #containerization
@@ -12,10 +13,12 @@
 1. #datastructures
 1. #docker
 1. #firmware
+1. #fitness
 1. #git
 1. #go
 1. #goals
 1. #hashing
+1. #health
 1. #heap
 1. #interview
 1. #java
@@ -29,6 +32,7 @@
 1. #oriented
 1. #parallel
 1. #performance
+1. #personal
 1. #personal
 1. #processes
 1. #python
