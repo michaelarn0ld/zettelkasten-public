@@ -20,10 +20,12 @@
 1. #hashing
 1. #health
 1. #heap
+1. #hedonism
 1. #interview
 1. #java
 1. #javascript
 1. #kubernetes
+1. #life
 1. #life
 1. #linux
 1. #math
@@ -45,6 +47,7 @@
 1. #spring
 1. #streaming
 1. #sysadmin
+1. #values
 1. #virtualenvironment
 1. #virtualization
 1. #webcam
