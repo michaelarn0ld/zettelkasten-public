@@ -1,5 +1,4 @@
 1. #
-1. #Tags
 1. #algorithms
 1. #bash
 1. #bigO
@@ -31,6 +30,7 @@
 1. #math
 1. #maven
 1. #memory
+1. #namaste
 1. #oriented
 1. #parallel
 1. #performance
@@ -52,3 +52,4 @@
 1. #virtualization
 1. #webcam
 1. #webdev
+1. #zen
