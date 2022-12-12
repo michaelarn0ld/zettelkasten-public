@@ -16,7 +16,6 @@
 1. #git
 1. #go
 1. #goals
-1. #goals
 1. #hashing
 1. #health
 1. #heap
@@ -26,7 +25,6 @@
 1. #javascript
 1. #kubernetes
 1. #life
-1. #life
 1. #linux
 1. #math
 1. #maven
@@ -35,9 +33,6 @@
 1. #oriented
 1. #parallel
 1. #performance
-1. #personal
-1. #personal
-1. #personal
 1. #personal
 1. #processes
 1. #python
