@@ -10,7 +10,9 @@
 1. #content
 1. #cooling
 1. #datastructures
+1. #diet
 1. #docker
+1. #fasting
 1. #firmware
 1. #fitness
 1. #git
