@@ -12,6 +12,7 @@
 1. #datastructures
 1. #diet
 1. #docker
+1. #engineering
 1. #fasting
 1. #firmware
 1. #fitness
@@ -46,6 +47,7 @@
 1. #spring
 1. #streaming
 1. #sysadmin
+1. #tech
 1. #values
 1. #virtualenvironment
 1. #virtualization
