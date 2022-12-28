@@ -48,6 +48,7 @@
 1. #streaming
 1. #sysadmin
 1. #tech
+1. #training
 1. #values
 1. #virtualenvironment
 1. #virtualization
