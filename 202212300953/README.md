@@ -18,8 +18,8 @@ done
 ```
 
 ## Related
-[202109270322](../202109270322) - Exploring the Differences between *.bashrc* and *.profile*
-[202111031844](../202111031844) - Working with Delimited Data
+[202109270322](../202109270322) - Exploring the Differences between *.bashrc* and *.profile* \
+[202111031844](../202111031844) - Working with Delimited Data \
 [202205110421](../202205110421) - Bash: Special Workflows
 
 ## Tags
