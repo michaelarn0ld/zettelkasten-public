@@ -1,4 +1,5 @@
 1. #
+1. #2023
 1. #algorithms
 1. #bash
 1. #bigO
@@ -33,6 +34,7 @@
 1. #maven
 1. #memory
 1. #namaste
+1. #newyear
 1. #oriented
 1. #parallel
 1. #performance
