@@ -28,5 +28,10 @@ Carbs: 184 (26%)
 Protein: 260 (37%)
 Fats: 113 (37%)
 
+## Summary
+I feel relatively strong still at these levels. The hunger is manageable and
+generally the diet feels maintainable. Will continue to monitor how I am feeling
+and see if I need to make any changes.
+
 ## Tags
 #training #fitness
