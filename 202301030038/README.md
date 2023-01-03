@@ -19,9 +19,9 @@ resolve this, I basically did the following:
    the EC2 and fired it back up
 
 ## References
-https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-to-ec2-instance.html  (Step 1,3)
-https://turreta.com/2019/02/27/aws-point-your-namecheap-domain-to-ec2-instance-via-route53/  (Step 2,3)
-https://dzone.com/articles/spring-boot-secured-by-lets-encrypt  (Step 5)
+https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-to-ec2-instance.html  (Step 1,3) \
+https://turreta.com/2019/02/27/aws-point-your-namecheap-domain-to-ec2-instance-via-route53/  (Step 2,3) \
+https://dzone.com/articles/spring-boot-secured-by-lets-encrypt  (Step 5) \
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/SSL-on-amazon-linux-2.html#letsencrypt  (Step 4)
 
 ## Tags
