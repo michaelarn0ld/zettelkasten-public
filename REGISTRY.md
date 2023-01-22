@@ -39,6 +39,7 @@
 1. #parallel
 1. #performance
 1. #personal
+1. #postgresql
 1. #processes
 1. #python
 1. #react
