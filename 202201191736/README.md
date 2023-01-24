@@ -46,8 +46,8 @@ subsequent steps, so we do not need to manually create them:
 * ```node_modules/```
 * ```dist/``` (this is the location of our production build)
 
-Make sure to grab the ```barebones-react``` script from
-[here](https://gitlab.com/michaelarn0ld/sh-scripts) if you don't already have
+Make sure to grab the ```makereact``` script from
+[here](https://github.com/michaelarn0ld/sh-scripts) if you don't already have
 it. Now run these commands:
 ```bash
 mkdir -p {YOUR_PROJECT_NAME}/src/components/ && cd {YOUR_PROJECT_NAME}
@@ -56,7 +56,7 @@ touch webpack.config.js src/index.{html,js} src/components/App.js
 
 npm init -y &> /dev/null
 
-barebones-react
+makereact
 ```
 
 Now, you must configure ```package.json``` so we can utilize the webpack
