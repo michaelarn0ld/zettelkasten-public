@@ -20,6 +20,7 @@
 1. #git
 1. #go
 1. #goals
+1. #hardstyle
 1. #hashing
 1. #health
 1. #heap
@@ -33,6 +34,7 @@
 1. #math
 1. #maven
 1. #memory
+1. #music
 1. #namaste
 1. #newyear
 1. #oriented
