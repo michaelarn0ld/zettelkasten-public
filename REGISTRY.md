@@ -43,6 +43,7 @@
 1. #personal
 1. #postgresql
 1. #processes
+1. #projects
 1. #python
 1. #react
 1. #relationships
