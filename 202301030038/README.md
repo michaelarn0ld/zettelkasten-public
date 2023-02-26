@@ -25,4 +25,4 @@ https://dzone.com/articles/spring-boot-secured-by-lets-encrypt  (Step 5) \
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/SSL-on-amazon-linux-2.html#letsencrypt  (Step 4)
 
 ## Tags
-#java #spring
+#java #spring #route53
