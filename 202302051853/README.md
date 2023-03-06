@@ -10,6 +10,8 @@ The tempo, kicks, and bass which are characteristic of hardstyle draw the
 listener into a state of euphoria.
 
 A state of trance.
+A state of trance.
+A state of trance.
 
 ## Tags
 #hardstyle #music
