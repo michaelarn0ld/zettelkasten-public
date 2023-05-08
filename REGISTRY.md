@@ -4,6 +4,7 @@
 1. #bash
 1. #bigO
 1. #career
+1. #cicd
 1. #computerscience
 1. #concurrent
 1. #containerization
@@ -11,6 +12,7 @@
 1. #content
 1. #cooling
 1. #datastructures
+1. #devops
 1. #diet
 1. #docker
 1. #engineering
