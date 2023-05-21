@@ -1,7 +1,7 @@
 # Clean Code: Cliffnotes
 
 ## Topics
-* Naming Things
+* Naming Things: [202305210612](../202305210612) - Clean Code: Naming Things
 * Functions
 
 ## Tags
