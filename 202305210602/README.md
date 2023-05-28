@@ -19,6 +19,9 @@
 4. A drop of honey catches more flies than a gallon of gall. Begin your
    interactions with others in a friendly way. Gentleness is always stronger
    than fury.
+5. Always seek to start disagreements by getting the other person to agree with
+   you; get them saying "yes, yes..." to smaller things instead of "no". You
+   do this by finding common ground, which puts them into a state of agreeability.
 
 
 ## Related
