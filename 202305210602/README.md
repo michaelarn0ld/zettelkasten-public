@@ -22,6 +22,10 @@
 5. Always seek to start disagreements by getting the other person to agree with
    you; get them saying "yes, yes..." to smaller things instead of "no". You
    do this by finding common ground, which puts them into a state of agreeability.
+6. Always let the other person fully and completely express themselves before
+   you interject; interuption is egotistical and the other person probably won't
+   even be listening to you. Instead, they will be waiting for you to finish so
+   they can continue.
 
 
 ## Related
