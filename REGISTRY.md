@@ -19,6 +19,7 @@
 1. #fasting
 1. #firmware
 1. #fitness
+1. #frontend
 1. #git
 1. #go
 1. #goals
@@ -55,9 +56,11 @@
 1. #shell
 1. #spring
 1. #streaming
+1. #svelte
 1. #sysadmin
 1. #tech
 1. #training
+1. #ui
 1. #values
 1. #virtualenvironment
 1. #virtualization
