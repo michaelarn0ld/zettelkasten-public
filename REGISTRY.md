@@ -43,6 +43,7 @@
 1. #oriented
 1. #parallel
 1. #performance
+1. #persoal
 1. #personal
 1. #pgp
 1. #postgresql
