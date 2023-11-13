@@ -15,6 +15,7 @@
 1. #devops
 1. #diet
 1. #docker
+1. #encryption
 1. #engineering
 1. #fasting
 1. #firmware
