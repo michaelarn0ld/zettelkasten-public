@@ -17,7 +17,7 @@ blame. I need to reorder my life.
 
 Order of priority is:
 * Work
-* Diet + Training [TODO Zettel]
+* Diet + Training -> [202311250238](../202311250238) - German Volume Training II
 * Dating [TODO Zettel]
 * Fun
 * Education [TODO Zettel]
@@ -92,7 +92,7 @@ I will bike 75 miles a week.
 
 I will workout 6 days a week; I will follow a variation of GVT and on the 6th
 day I will have a calisthenics focused workout. The next zettel after this one
-will describe my workout program.
+will describe my workout program -> [202311250238](../202311250238) - German Volume Training II
 
 I will involve 10mins of HIIT cardio into each weightlifitng session; thus I will
 do 1 hour of HIIT per week.
