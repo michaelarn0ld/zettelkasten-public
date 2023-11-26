@@ -18,7 +18,7 @@ blame. I need to reorder my life.
 Order of priority is:
 * Work
 * Diet + Training -> [202311250238](../202311250238) - German Volume Training II
-* Dating [TODO Zettel]
+* Dating -> [202311260454](https://github.com/michaelarn0ld/zettelkasten-private/tree/main/202311260454)
 * Fun
 * Education [TODO Zettel]
 
