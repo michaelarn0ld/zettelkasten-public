@@ -20,7 +20,7 @@ Order of priority is:
 * Diet + Training -> [202311250238](../202311250238) - German Volume Training II
 * Dating -> [202311260454](https://github.com/michaelarn0ld/zettelkasten-private/tree/main/202311260454)
 * Fun
-* Education [TODO Zettel]
+* Education -> [202311270316](../202311270316) - Tech Learning Going Into 2024
 
 
 ## Work
