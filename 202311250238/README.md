@@ -10,7 +10,7 @@
 
 ## Legs + Calves
 * 10x10 Front Squats
-* 5x10 Deadlifts
+* 5x5 Deadlifts
 * 5x20 Seated Calves
 * 5x20 Standing Calves
 
