@@ -1,4 +1,4 @@
-# New Year's Resolutions 2024
+# New Year Resolutions 2024
 * Be more socialable and approach more people; stop being complacent, timid, and
   make an attempt to approach more people
 * Learn a new language
