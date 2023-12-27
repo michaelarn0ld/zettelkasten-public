@@ -2,6 +2,7 @@
 
 * PPF: OC Detailing
 * Tint: OC Detailing
+* Coilovers: BMW M Performance Coilovers
 
 ## Tags
 #bmw #m3
