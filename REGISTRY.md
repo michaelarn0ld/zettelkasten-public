@@ -3,6 +3,7 @@
 1. #algorithms
 1. #bash
 1. #bigO
+1. #bmw
 1. #career
 1. #cicd
 1. #computerscience
@@ -35,6 +36,7 @@
 1. #kubernetes
 1. #life
 1. #linux
+1. #m3
 1. #math
 1. #maven
 1. #memory
