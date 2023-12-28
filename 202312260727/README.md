@@ -1,5 +1,6 @@
 # New Year Resolutions 2024
 * Contribute max to my Roth IRA and just buy the S&P
+* Chest tattoo improvement/extensions
 * Travel to europe
 * Ride bike from SF -> LA
 * Be more socialable and approach more people; stop being complacent, timid, and
