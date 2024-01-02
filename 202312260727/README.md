@@ -18,17 +18,21 @@
   my promo forward.
 
 ## Fitness
-* Train to be able to bike from SF -> LA
+* Complete bike ride from SF -> LA
+  - https://www.bestcoastbiking.com/san-francisco-to-los-angeles
 * Run 6 miles in under 1 hour
+  - Stretching and massaging routine to assist shin/ankle pain
+  - Purchase new running shoes
 * Maintain < 15% body fat throughout the entire year
 
 ## Personal
 * Look into chest tattoo coverup
-* Travel to europe
+* Travel to europe in summer 2024
 * Be more socialable; stop being complacent, timid, and make an attempt to
   approach more people
-* Learn a new language:
+* Learn a new language with Duolingo:
   - French
+  - Mandarin
   - Spanish
   - German
 
