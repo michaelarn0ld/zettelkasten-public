@@ -62,6 +62,7 @@
 1. #streaming
 1. #svelte
 1. #sysadmin
+1. #systemdesign
 1. #tech
 1. #training
 1. #ui
