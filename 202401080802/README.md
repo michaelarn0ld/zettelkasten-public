@@ -27,6 +27,16 @@
   - Purchase new running shoes
 * Maintain < 15% body fat throughout the entire year
 
+## Social
+* Look into more social club oriented things
+  - Run club
+  - Pickleball league
+  - Climbing gym
+* Go out to bars more often
+  - Trivia nights
+  - Karaokee
+* Start going to church
+
 ## Personal
 * Purchase BMW M3
 * Purchase Omega or Rolex timepiece
@@ -36,8 +46,6 @@
   - Sleeve tattoo
   - Leg tattoo
 * Travel to europe in summer 2024
-* Make more friends by expanding the types of activities that I participate in;
-  look for group activities in the bay area (yoga, running, biking, skiing, etc...)
 * Learn a new language with Duolingo:
   - Mandarin
   - Spanish
