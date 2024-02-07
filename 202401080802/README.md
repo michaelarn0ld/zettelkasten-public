@@ -1,12 +1,11 @@
 # New Year Resolutions 2024: AMENDED
 
 ## Financial
-* -Stick to my budget- 
-* -Maintain a savings balance in SoFi of $40k-
 * Contribute to back-door Roth IRA
-* Purchase as many as possible series I bonds; chat with Daniel about these
-* When CDs mature, talk to Daniel about moving out of CDs and into a split
-  stocks + bonds strategy. Consider index funds + treasury bonds
+* When CDs mature (May 27, 2025?), need to chat with Daniel about next strategy
+  for making more money
+* ~~Stick to my budget~~ 
+* ~~Maintain a savings balance in SoFi of $40k~~
 
 ## Professional
 * Shoot for Q2/Q3 promotion
@@ -21,8 +20,8 @@
 ## Fitness
 * Complete bike ride from SF -> LA
   - https://www.adventurecycling.org/routes-and-maps/adventure-cycling-route-network/pacific-coast/
-* -Run 6 miles in under 1 hour-
-* -Maintain < 15% body fat throughout the entire year-
+* ~~Run 6 miles in under 1 hour~~
+* ~~Maintain < 15% body fat throughout the entire year~~
 
 ## Social
 * Look into more social club oriented things
@@ -35,7 +34,6 @@
 * Start going to church
 
 ## Personal
-* -Purchase BMW M3-
 * Purchase Omega or Rolex timepiece
 * Purchase ski gear
 * Tattoos
@@ -43,6 +41,7 @@
   - Sleeve tattoo
   - Leg tattoo
 * Travel to europe in summer 2024
+* ~~Purchase BMW M3~~
 
 ## Related
 [202312260727](../202312260727) - New Year Resolutions 2024 \
