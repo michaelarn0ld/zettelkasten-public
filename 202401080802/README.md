@@ -48,5 +48,5 @@
 [202301010836](../202301010836) - First Zettel of 2023
 
 ## Tags
-#newyear
+#newyear #goals
 
