@@ -32,7 +32,8 @@ How can I combat this?
 
 ## Related
 [202401080802](../202401080802) - New Year Resolutions 2024: AMENDED \
-[202311250110](../202311250110) - Reorienting Myself Onto The Path II
+[202311250110](../202311250110) - Reorienting Myself Onto The Path II \
+[202402150810](../202402150810) - Interactions w/ People
 
 
 ## Tags
