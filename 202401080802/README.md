@@ -1,7 +1,7 @@
 # New Year Resolutions 2024: AMENDED
 
 ## Financial
-* Contribute to back-door Roth IRA
+* ~~Contribute to Roth 401k~~
 * When CDs mature (May 27, 2025?), need to chat with Daniel about next strategy
   for making more money
 * ~~Stick to my budget~~ 
@@ -24,14 +24,7 @@
 * ~~Maintain < 15% body fat throughout the entire year~~
 
 ## Social
-* Look into more social club oriented things
-  - Run club
-  - Pickleball league
-  - Climbing gym
-* Go out to bars more often
-  - Trivia nights
-  - Karaokee
-* Start going to church
+* Starting March, go on two dates per month
 
 ## Personal
 * Purchase Omega or Rolex timepiece
