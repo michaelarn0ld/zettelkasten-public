@@ -1,4 +1,4 @@
-# 10 Year Goals: Family
+# 10 Year Goals: Financial
 
 ## Tags
 #personal #goals
