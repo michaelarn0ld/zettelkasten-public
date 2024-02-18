@@ -1,3 +1,0 @@
-# Criteria for Business
-
-## Tags
