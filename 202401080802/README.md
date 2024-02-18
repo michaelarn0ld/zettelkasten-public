@@ -8,14 +8,15 @@
 * ~~Maintain a savings balance in SoFi of $40k~~
 
 ## Professional
+* Think about side businesses that I can pursue...
+* Read "Data-Intensive Applications"
+* Stay on top of career progression and stop working so hard; instead work smart
+  and educate myself on the corporate dynamics [here](https://www.youtube.com/@ALifeAfterLayoff)
 * Shoot for Q2/Q3 promotion
   - Have conversation with new manager and let him know the strengths/gaps that
     Namrata and I have identified up to this point
   - Q2 conversations start in May
   - Q3 conversations start in August
-* Upskill in system design
-* Stay on top of career progression and stop working so hard; instead work smart
-  and educate myself on the corporate dynamics [here](https://www.youtube.com/@ALifeAfterLayoff)
 
 ## Fitness
 * Complete bike ride from SF -> LA
