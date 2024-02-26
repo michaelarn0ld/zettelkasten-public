@@ -38,6 +38,7 @@
 * ~~Purchase BMW M3~~
 
 ## Related
+[202402180758](../202402180758) - Long Term Goals Over Next 10 Years \
 [202312260727](../202312260727) - New Year Resolutions 2024 \
 [202301010836](../202301010836) - First Zettel of 2023
 
