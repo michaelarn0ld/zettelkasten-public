@@ -8,6 +8,8 @@ goals. The personal roadmap will cover the personal, community, and family
 components of my goals
 
 ## Financial
+* Business Ideas -  [202402260259](../202402260259)
+* Real Estate - [202402260310](../202402260310)
 
 ## Personal
 
