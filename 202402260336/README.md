@@ -9,6 +9,7 @@
 * CSL grill
 * Front splitter
 * Starlight headliners
+* Alcantara steering wheel
 
 ## Tags
 #bmw #m3
