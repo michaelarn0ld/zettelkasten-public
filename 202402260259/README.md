@@ -28,5 +28,9 @@ Insurance
 * Commericial insurance
 * Clone of Chris Constantini's model
 
+Direct To Consumer
+* Beard oil subscription; you get a base and 5 essential oils per quarter. They
+  are paired to seasons OR customers can build-their-own bundle
+
 ## Tags
 #goals
