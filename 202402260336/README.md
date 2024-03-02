@@ -1,15 +1,25 @@
 # M3 Modification Wish List
 
-* Valvetronic exhuast
-* 200 cell downpipes
-* MST intakes front mount
-* M performance height adjustables springs
-* BM3 + Femto unlock
+## Interior
+* Alcantara steering wheel
+
+## Exterior
 * Paint match reflectors
 * CSL grill
 * Front splitter
-* Starlight headliners
-* Alcantara steering wheel
+* Carbon fiber rear spoiler
+* DRL yellows
+
+## Performance
+* BM3 + Femto unlock
+* Carbon fiber engine strut
+* MST intakes front mount
+* Valvetronic exhuast equal length + titanium
+* Downpipes
+
+## Suspension
+* M performance height adjustables springs
+* Wheels
 
 ## Tags
 #bmw #m3
