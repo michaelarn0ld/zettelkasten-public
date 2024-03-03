@@ -8,6 +8,7 @@
 * CSL grill
 * Front splitter
 * Carbon fiber rear spoiler
+* Roof rack
 * DRL yellows
 
 ## Performance
@@ -19,7 +20,7 @@
 
 ## Suspension
 * M performance height adjustables springs
-* Wheels
+* Wheels BBS FI-R
 
 ## Tags
 #bmw #m3
