@@ -10,6 +10,7 @@
 ## Professional
 * Think about side businesses that I can pursue...
 * Read "Data-Intensive Applications"
+* [202403110646](../202403110646) - 2024 Tech Learning List
 * Stay on top of career progression and stop working so hard; instead work smart
   and educate myself on the corporate dynamics [here](https://www.youtube.com/@ALifeAfterLayoff)
 * Shoot for Q2/Q3 promotion
@@ -34,7 +35,7 @@
   - Chest tattoo
   - Sleeve tattoo
   - Leg tattoo
-* Travel to europe in summer 2024
+* ~~Travel internationally~~ 
 * ~~Purchase BMW M3~~
 
 ## Related
