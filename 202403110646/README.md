@@ -1,10 +1,10 @@
 # 2024 Tech Learning List
 
-* Go
-* System design
-* Svelte
-* Functional programming (elixr?)
-* Basics of AI/ML and how it relates to SWE
+* Go/Rust/C/C++ (language that is compiled + very performant)
+* System design (read Designing Data Intensive Applications)
+* Svelte (UI)
+* Functional programming (Elixr)
+* Basics of AI/ML for SWE (https://tinyurl.com/5dumherh)
 
 ## Tags
 #goals
