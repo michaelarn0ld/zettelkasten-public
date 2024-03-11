@@ -5,7 +5,7 @@
 Cars
 * Exotic car rentals
 * Exotic car dealership
-* Car detailing
+* Mobile car detailing; is this possible to do with just a sedan?
 
 Information Technology
 * AWS/GCP consultancy firm
@@ -20,6 +20,7 @@ Health
   that meets the macros. It is chipotle style
 * Meal prep app. Select meals for week then groceries and recipes are delivered
   to you. Eventually use AI to recommend meals based on your history
+* Boutique gym; can we do some research on the Alex Hormozi model?
 
 ## Ideas That I Am Not Passionate About
 
