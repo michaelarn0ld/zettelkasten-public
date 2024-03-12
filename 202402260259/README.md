@@ -13,6 +13,8 @@ Information Technology
 * Software startup
   - MBSE startup
   - JIRA cutting service for CloudWatch logs
+  - Using LLM (GPT) for a concept like "Learn X topic in Y mintutes"; simple UI
+    w/ 2 input boxes: "What do you want to learn?", "How much time do you have?"
 
 Health
 * Meal service company
